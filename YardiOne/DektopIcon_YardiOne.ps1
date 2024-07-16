@@ -9,7 +9,7 @@ $directoryName = "FDS\Icons"
 $directoryPath = Join-Path -Path $env:ProgramData -ChildPath $directoryName
 
 # Define the Shortcut Info
-$WebAddress = "https://www.yardiasp13.com/80032dth"
+$WebAddress = "https://www.yardiasp14.com/66115everconst"
 $ShortcutName = "YardiOne.lnk"
 $ShortcutPath = Join-Path -Path ([Environment]::GetFolderPath("CommonDesktopDirectory")) -ChildPath $ShortcutName
 
