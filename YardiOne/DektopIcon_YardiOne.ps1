@@ -2,7 +2,7 @@ $PackageName = "DesktopIcon_YardiOne"
 $Version = "1"
 
 # Define the GitHub URLs for the files
-$Icon = "https://raw.githubusercontent.com/ChrisFDSTech/DTH/main/YardiOne/YardiOne.ico"
+$Icon = "https://raw.githubusercontent.com/ChrisFDSTech/Evergreen/main/YardiOne/YardiOne.ico"
 
 # Define the directory
 $directoryName = "FDS\Icons"
